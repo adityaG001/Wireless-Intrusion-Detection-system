@@ -36,7 +36,7 @@ iwconfig
 
 #### 5. Start Kismet
 ```bash
-sudo kismet
+sudo kismet -c wlan0mon
 ```
 
 #### 6. Access Dashboard
