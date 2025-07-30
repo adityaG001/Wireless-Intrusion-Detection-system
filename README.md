@@ -37,4 +37,4 @@ WIDRS is a lightweight and affordable wireless intrusion detection and response 
 - `commands.md`: All terminal commands used
 - `report.pdf`: Final mini project documentation
 - `screenshots/`: Screenshots from Kismet dashboard
-- `LICENSE`: (Optional) License for code or usage
+- `LICENSE`: License for code or usage
